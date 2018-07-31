@@ -3,6 +3,7 @@
 ## Project description:
 - This is very simple example how you can use Youtube API.
 - Now it contains only ruby code examples (without rails)
+- Here is page of [Yt](https://github.com/Fullscreen/yt) and [Yt docs](https://www.rubydoc.info/gems/yt/frames)
 
 ## Technical details
 
